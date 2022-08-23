@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BookLibrary</string>
+    <string-array name="filter_options">
+        <item>Дате</item>
+        <item>Автору</item>
+        <item>Циклу</item>
+        <item>Общему кол-ву страниц</item>
+        <item>Кол-ву прочитанных страниц</item>
+        <item>Оценке</item>
+    </string-array>
 </resources>
